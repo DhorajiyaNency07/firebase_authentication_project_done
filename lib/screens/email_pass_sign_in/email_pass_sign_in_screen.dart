@@ -49,7 +49,7 @@ class _EmailPassSignInScreenState extends State<EmailPassSignInScreen> {
                     ),
             ),
           ),
-          // for multiple image 
+          // for multiple image
           // ElevatedButton(
           //   onPressed: () {
           //     pickImage();
